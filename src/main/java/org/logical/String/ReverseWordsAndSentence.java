@@ -2,7 +2,7 @@ package org.logical.String;
 
 import java.util.Arrays;
 
-public class ReverseWords {
+public class ReverseWordsAndSentence {
     public static void main(String[] args) {
         reverseString();
         reverseStringUsingStringBuilder();
